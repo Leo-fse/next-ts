@@ -1,7 +1,15 @@
 {
-    // tailwindcss
-    "css.validate": false,
-    "editor.quickSuggestions": {
-        "strings": true
-      }
+  // eslint
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // prettier
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // tailwindcss
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
 }

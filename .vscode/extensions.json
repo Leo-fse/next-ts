@@ -2,6 +2,10 @@
     "recommendations": [
         "bradlc.vscode-tailwindcss",
         "austenc.tailwind-docs",
-        "heybourn.headwind"
+        "heybourn.headwind",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "vtrois.gitmoji-vscode",
+        "esbenp.prettier-vscode"
     ]
 }
