@@ -21,7 +21,7 @@ const Home: FC = () => {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
-
+        <p className="px-4 text-3xl font-bold text-red-600 bg-blue-700">tailwindcss</p>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
