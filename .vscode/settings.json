@@ -1,0 +1,7 @@
+{
+    // tailwindcss
+    "css.validate": false,
+    "editor.quickSuggestions": {
+        "strings": true
+      }
+}
